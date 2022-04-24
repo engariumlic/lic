@@ -1,8 +1,9 @@
 {
     "licenses" : [
         {
-            "id": "hi",
-            "license": "1234"
+            "id": "4cf867e2bcea3d140f171cebe68f2e5926510eee",
+            "license": "47B93686C3A86A687E830A6C34443C02E5128D5FAE7C1F2760A04490CC9D0951",
+            "endDate": "tomorrow"
         }
     ]
 }
